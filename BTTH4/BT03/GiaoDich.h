@@ -5,7 +5,7 @@ using namespace std;
 
 class Transaction
 {
-private:
+protected:
     string transactionID;
     string transactionDate;
     double price;
